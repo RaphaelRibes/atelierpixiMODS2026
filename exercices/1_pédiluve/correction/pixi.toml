@@ -1,0 +1,14 @@
+[workspace]
+channels = ["conda-forge"]
+name = "1_pédiluve"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+start = "python main.py"
+
+[dependencies]
+python = "3.9.*"
+
+[pypi-dependencies]
+cowpy = ">=1.1.5, <2"
