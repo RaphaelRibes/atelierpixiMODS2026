@@ -6,8 +6,13 @@ C'est un de nos projet de M2 Bioinformatique réalisé par Mickael Coquerelle, L
 Il s'agit d'un assembleur de génome en C++ qui utilise des graphes de De Bruijn.
 Ce projet utilise pixi pour gérer ses environements de développement et d'exécution.
 
-## Déconstruction du projet
+Vous pouvez cloner le projet avec:
+```shell
+git clone https://github.com/MickaelCQ/RaMiLass.git
+cd RaMiLASS
+```
 
+## Déconstruction du projet
 On retrouve 4 grands environnements dans RaMiLASS:
 
 ### Par défaut (build & run)
