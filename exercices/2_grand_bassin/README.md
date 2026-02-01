@@ -81,7 +81,7 @@ pixi containerize --help
 Usage: pixi containerize [options]
 
 Pixi extension to containerize a project with Apptainer.
-Version: 0.3.1
+Version: 0.3.3
 
 Options:
   -o, --output OUTPUT       Output image path (default: pixitainer.sif)
@@ -92,7 +92,9 @@ Options:
   -v, --verbose             Verbose mode (show full Apptainer build output)
   --base-image IMAGE        Specify base image (default: ubuntu:24.04)
   --pixi-version VERSION    Specify pixi version (default: latest)
+  --add-file SRC:DEST       Add a file to the container (format: source:destination)
   --keep-def                Export the .def file (do not delete temporary files)
+  --no-install              Do not install any environments
   -h, --help                Show this help message
 ```
 
