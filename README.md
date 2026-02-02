@@ -1,4 +1,5 @@
 # 📦 Atelier Pixi
+# https://github.com/RaphaelRibes/atelierpixiMODS2026.git
 
 > Un atelier pratique pour approcher [pixi](https://pixi.sh), le gestionnaire d'environnements et de packages nouvelle génération.
 
@@ -41,7 +42,7 @@ Il faut ensuite redémarrer votre terminal.
 
 ## Auteur
 
-**Raphaël Ribes**
+[**Raphaël Ribes**](https://raphaelrib.es/)
 
 ## Licence
 
