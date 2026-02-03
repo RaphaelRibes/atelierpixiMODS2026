@@ -9,7 +9,7 @@ Ce projet utilise pixi pour gérer ses environements de développement et d'exé
 Vous pouvez cloner le projet avec:
 ```shell
 git clone https://github.com/MickaelCQ/RaMiLass.git
-cd RaMiLASS
+cd RaMiLass
 ```
 
 ## Déconstruction du projet
